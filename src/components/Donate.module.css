@@ -1,0 +1,32 @@
+
+  .don {background-image: linear-gradient(to right, #1D976C 0%, #93F9B9  51%, #1D976C  100%)}
+  .don {
+      font-size: 20px;
+     margin: 50px;
+     padding: 15px 45px;
+     border: none;
+     text-align: center;
+     text-transform: uppercase;
+     transition: 0.5s;
+     background-size: 200% auto;
+     color: white;            
+     box-shadow: 0 0 20px #eee;
+     border-radius: 30px;
+     display: block;
+   }
+
+   .don:hover {
+     background-position: right center; /* change the direction of the change here */
+     color: #fff;
+     text-decoration: none;
+     box-shadow: 0 12px 16px 0 rgba(0,0,0,0.14), 0 17px 50px 0 rgba(0,0,0,0.19);
+   }
+   @media (max-width: 770px) {
+    .don {
+        margin: 10% 0 !important;
+        font-size: 15px;
+
+    }
+}
+   
+  
