@@ -48,7 +48,7 @@ class Checkout extends React.Component {
     render () {
       return (
         <div>
-          <button className={styles.don} onClick={this.btnClick.bind(this)}>Donate for Covid Relief!</button> 
+          <button className={styles.don} onClick={this.btnClick.bind(this)}>Donate for Covid Relief Fund!</button> 
         </div>
       )
     }
