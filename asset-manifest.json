@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Covid-Stats-App/static/css/main.e36fc8b8.chunk.css",
-    "main.js": "/Covid-Stats-App/static/js/main.77f4d6a8.chunk.js",
-    "main.js.map": "/Covid-Stats-App/static/js/main.77f4d6a8.chunk.js.map",
+    "main.css": "/Covid-Stats-App/static/css/main.2b60bf67.chunk.css",
+    "main.js": "/Covid-Stats-App/static/js/main.89a22ab0.chunk.js",
+    "main.js.map": "/Covid-Stats-App/static/js/main.89a22ab0.chunk.js.map",
     "runtime-main.js": "/Covid-Stats-App/static/js/runtime-main.938b2b1b.js",
     "runtime-main.js.map": "/Covid-Stats-App/static/js/runtime-main.938b2b1b.js.map",
-    "static/js/2.48a905d3.chunk.js": "/Covid-Stats-App/static/js/2.48a905d3.chunk.js",
-    "static/js/2.48a905d3.chunk.js.map": "/Covid-Stats-App/static/js/2.48a905d3.chunk.js.map",
+    "static/js/2.7d02062d.chunk.js": "/Covid-Stats-App/static/js/2.7d02062d.chunk.js",
+    "static/js/2.7d02062d.chunk.js.map": "/Covid-Stats-App/static/js/2.7d02062d.chunk.js.map",
     "index.html": "/Covid-Stats-App/index.html",
-    "static/css/main.e36fc8b8.chunk.css.map": "/Covid-Stats-App/static/css/main.e36fc8b8.chunk.css.map",
-    "static/js/2.48a905d3.chunk.js.LICENSE.txt": "/Covid-Stats-App/static/js/2.48a905d3.chunk.js.LICENSE.txt",
+    "static/css/main.2b60bf67.chunk.css.map": "/Covid-Stats-App/static/css/main.2b60bf67.chunk.css.map",
+    "static/js/2.7d02062d.chunk.js.LICENSE.txt": "/Covid-Stats-App/static/js/2.7d02062d.chunk.js.LICENSE.txt",
     "static/media/covidimage.9e5d4fc7.png": "/Covid-Stats-App/static/media/covidimage.9e5d4fc7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.938b2b1b.js",
-    "static/js/2.48a905d3.chunk.js",
-    "static/css/main.e36fc8b8.chunk.css",
-    "static/js/main.77f4d6a8.chunk.js"
+    "static/js/2.7d02062d.chunk.js",
+    "static/css/main.2b60bf67.chunk.css",
+    "static/js/main.89a22ab0.chunk.js"
   ]
 }
