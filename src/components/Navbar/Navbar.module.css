@@ -1,0 +1,13 @@
+.root {
+    width: 100% !important;
+    flex-grow: 1 !important;
+  }
+  .contain {
+      background: rgb(153, 152, 152) !important;
+  }
+  .menuButton {
+    margin-right: 10px;
+  }
+  .title {
+    flex-grow: 1;
+  }
